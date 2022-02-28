@@ -9,6 +9,7 @@ a {
 
 .cenText {
   text-align: center;
+  padding: 80px;
 }
 .footer {
   position: fixed; /* Фиксированное положение */
@@ -17,9 +18,25 @@ a {
   background: #00B7FF; /* Цвет фона */
   color: #fff; /* Цвет текста */
   width: 100%; /* Ширина слоя */
+  text-align: center;
 }
 .textLow{
   position: fixed;
   left: 0; bottom: 500px;
   text-align: center;
+}
+
+.stylePhoto{
+  position: relative; /* Фиксированное положение */
+  top:400px;
+  vertical-align:bottom;
+  text-align: center;
+}
+button {
+  border-radius: 4px;
+  transition: border-radius 0.2s ease-in;
+}
+
+button:hover {
+  border-radius: 16px;
 }

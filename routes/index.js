@@ -9,4 +9,10 @@ router.get('/', function(req, res, next) {
 router.get('/admin', function(req, res, next) {
   res.render('admin', { title: 'Express' });
 });
+router.get('/visitor', function(req, res, next) {
+  res.render('visitor', { title: 'Express' });
+});
+router.get('/TeamsMain', function(req, res, next) {
+  res.render('TeamsMain', { title: 'Express' });
+});
 module.exports = router;
