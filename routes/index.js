@@ -15,4 +15,7 @@ router.get('/visitor', function(req, res, next) {
 router.get('/TeamsMain', function(req, res, next) {
   res.render('TeamsMain', { title: 'Express' });
 });
+router.get('/TeamDetail', function(req, res, next) {
+  res.render('TeamDetail', { title: 'Express' });
+});
 module.exports = router;
