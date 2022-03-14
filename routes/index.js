@@ -18,4 +18,7 @@ router.get('/TeamsMain', function(req, res, next) {
 router.get('/TeamDetail', function(req, res, next) {
   res.render('TeamDetail', { title: 'Express' });
 });
+router.get('/AdminLogin', function(req, res, next) {
+  res.render('AdminLogin', { title: 'Express' });
+});
 module.exports = router;
