@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0b2a21f3-a914-4ac4-8487-43f67fdfc926" name="Changes" comment="f">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/AdminLogin.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/AdminLogin.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/TeamDetail.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/TeamDetail.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/visitor.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/visitor.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,6 +82,8 @@
       <workItem from="1647285162185" duration="175000" />
       <workItem from="1647285356246" duration="40000" />
       <workItem from="1647330758705" duration="1340000" />
+      <workItem from="1647935677175" duration="1119000" />
+      <workItem from="1647936823150" duration="1793000" />
     </task>
     <task id="LOCAL-00001" summary="f">
       <created>1647284223313</created>

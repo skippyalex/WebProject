@@ -15,7 +15,7 @@ router.get('/visitor', function(req, res, next) {
 router.get('/TeamsMain', function(req, res, next) {
   res.render('TeamsMain', { title: 'Express' });
 });
-router.get('/TeamDetail', function(req, res, next) {
+router.get('/TeamnDetail', function(req, res, next) {
   res.render('TeamDetail', { title: 'Express' });
 });
 router.get('/AdminLogin', function(req, res, next) {
